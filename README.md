@@ -98,26 +98,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD1DC&height=2&section=header" width="100%"/>
 </div>
 
-<!-- 📊 GitHub Stats (Estáticos) -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solarkyra&theme=pink&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=solarkyra&theme=pink&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarkyra&theme=pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
-<!-- ✨ Footer Estático Rosado -->
-<div align="center">
-  <br/>
-  <h3>🌸 "Code is poetry, and every commit is a verse" 🌸</h3>
-  <br/>
   
   <!-- Visit Counter -->
   <a href="https://visitcount.itsvg.in">
