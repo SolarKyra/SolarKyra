@@ -9,7 +9,7 @@
 </h1>
 
 <!-- 👩‍ About Me -->
-<h2 align="center">👩‍ About Me</h2>
+<h2 align="center">🌸About Me🌸</h2>
 <p align="center">
   <b>Systems Engineering Student</b><br>
   💻 Passionate about <b>Web Development</b> & <b>Data Analysis</b><br>
@@ -107,10 +107,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=solarkyra&theme=pink&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarkyra&theme=pink&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <!-- ✨ Footer Rosado -->
