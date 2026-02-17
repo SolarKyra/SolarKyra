@@ -1,12 +1,11 @@
-<!-- 🌸 Header animado con tema rosado -->
+<!-- 🌸 Header Estático Rosado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Maria%20Monica!&fontSize=28&fontColor=white&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Maria%20Monica!&fontSize=28&fontColor=white" width="100%"/>
 </div>
 
-<!-- 👋 Saludo con animación -->
+<!-- 👋 Saludo -->
 <h1 align="center">
-  Hi, I'm Maria Monica Ahumada Lora! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align: middle;">
+  Hi, I'm Maria Monica Ahumada Lora! 👋
 </h1>
 
 <!-- 👩‍ About Me -->
@@ -18,9 +17,9 @@
   📍 Ready to collaborate on exciting projects
 </p>
 
-<!-- ✨ Divider animado rosado -->
+<!-- ✨ Divider Estático Rosado -->
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
 </div>
 
 <!-- 🛠️ Tech Stack -->
@@ -52,9 +51,9 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
 </p>
 
-<!-- ✨ Divider rosado -->
+<!-- ✨ Divider Estático Rosado -->
 <div align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWrii7AllfV7o/giphy.gif" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD1DC&height=2&section=header" width="100%"/>
 </div>
 
 <!-- 🌐 Socials -->
@@ -68,9 +67,9 @@
   </a>
 </p>
 
-<!-- ✨ Divider rosado -->
+<!-- ✨ Divider Estático Rosado -->
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
 </div>
 
 <!-- 💻 Full Tech Stack Badges -->
@@ -94,12 +93,20 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<!-- ✨ Divider rosado -->
+<!-- ✨ Divider Estático Rosado -->
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD1DC&height=2&section=header" width="100%"/>
 </div>
 
+
   
-  <!-- Footer waving rosado -->
+  <!-- Visit Counter -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=solarkyra&icon=2&color=4" alt="Visit Count"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Footer waving estático -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=100&section=footer" width="100%"/>
 </div>
