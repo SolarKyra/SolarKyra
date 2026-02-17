@@ -62,8 +62,8 @@
   <a href="https://instagram.com/009_m_a_r_y_024" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/MariaMonicaAhumadaLora" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge](https://www.linkedin.com/in/mar%C3%ADa-m%C3%B3nica-ahumada-lora-a791a6353/)" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/maría-mónica-ahumada-lora-a791a6353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
 
