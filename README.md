@@ -27,33 +27,17 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solarkyra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&animate=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=solarkyra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true  " alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=solarkyra&theme=tokyonight&hide_border=false&fire=FF6B6B&ring=70a5fd" alt="Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=solarkyra&theme=tokyonight&hide_border=false  " alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarkyra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarkyra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact  " alt="Top Languages"/>
 </p>
 
-<!-- Animación de código -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Coding"/>
-</p>
 
 ---
-
-<!-- Visit counter con icono animado -->
-[![](https://visitcount.itsvg.in/api?id=solarkyra&icon=2&color=70a5fd)](https://visitcount.itsvg.in)
-
-<!-- Footer animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=80&section=footer" alt="Footer"/>
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=solarkyra&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=solarkyra&icon=0&color=0  )](https://visitcount.itsvg.in  )
