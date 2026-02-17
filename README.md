@@ -101,9 +101,6 @@
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solarkyra&theme=pink&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=solarkyra&theme=pink&hide_border=true" alt="Streak Stats"/>
