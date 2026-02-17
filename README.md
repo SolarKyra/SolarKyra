@@ -1,4 +1,4 @@
-<!-- 🌸 Header Estático Rosado -->
+<!-- 🌸 Header Rosado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Maria%20Monica!&fontSize=28&fontColor=white" width="100%"/>
 </div>
@@ -9,7 +9,7 @@
 </h1>
 
 <!-- 👩‍ About Me -->
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">👩‍ About Me</h2>
 <p align="center">
   <b>Systems Engineering Student</b><br>
   💻 Passionate about <b>Web Development</b> & <b>Data Analysis</b><br>
@@ -17,7 +17,7 @@
   📍 Ready to collaborate on exciting projects
 </p>
 
-<!-- ✨ Divider Estático Rosado -->
+<!-- ✨ Divider Rosado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
 </div>
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
 </p>
 
-<!-- ✨ Divider Estático Rosado -->
+<!-- ✨ Divider Rosado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD1DC&height=2&section=header" width="100%"/>
 </div>
@@ -67,12 +67,12 @@
   </a>
 </p>
 
-<!-- ✨ Divider Estático Rosado -->
+<!-- ✨ Divider Rosado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
 </div>
 
-<!-- 💻 Full Tech Stack Badges -->
+<!-- 💻 More Technologies -->
 <h2 align="center">💻 More Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -93,20 +93,30 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<!-- ✨ Divider Estático Rosado -->
+<!-- ✨ Divider Rosado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD1DC&height=2&section=header" width="100%"/>
 </div>
 
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-  
-  <!-- Visit Counter -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=solarkyra&icon=2&color=4" alt="Visit Count"/>
-  </a>
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solarkyra&theme=pink&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=solarkyra&theme=pink&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarkyra&theme=pink&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+
+<!-- ✨ Footer Rosado -->
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=solarkyra&label=Profile%20views&color=ffb6c1&style=flat-square" alt="Profile views"/>
   <br/><br/>
-  
-  <!-- Footer waving estático -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=100&section=footer" width="100%"/>
 </div>
