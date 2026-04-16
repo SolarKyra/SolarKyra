@@ -1,12 +1,7 @@
 <!-- 🌸 Header Rosado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Maria%20Monica!&fontSize=28&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Maria%20Ahumada!&fontSize=28&fontColor=white" width="100%"/>
 </div>
-
-<!-- 👋 Saludo -->
-<h1 align="center">
-  Hi, I'm Maria Monica Ahumada Lora! 👋
-</h1>
 
 <!-- 👩‍ About Me -->
 <h2 align="center">🌸About Me🌸</h2>
