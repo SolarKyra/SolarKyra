@@ -8,7 +8,7 @@
 
 <!-- Animated subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=C2557A&center=true&vCenter=true&width=620&height=40&lines=Web+Development;Data+Analysis;Machine+Learning;Cloud+Computing" alt="Areas of interest"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=C2557A&center=true&vCenter=true&width=620&height=40&lines=Web+Development;Data+Analysis;Artificial+Intelligence;Cloud+Infrastructure" alt="Areas of interest"/>
 </div>
 
 <br/>
@@ -16,7 +16,8 @@
 <!-- About -->
 <h2 align="center">About</h2>
 <p align="center">
-  Systems Engineering student at Universidad Tecnológica de Bolívar, focused on <b>web development</b>, <b>data analysis</b> and <b>machine learning</b>.<br>
+  Systems Engineering student at Universidad Tecnológica de Bolívar, with experience in <b>web development</b> and <b>data analysis</b>.<br>
+  Aspiring professional in <b>artificial intelligence</b> and <b>cloud infrastructure</b>, building skills in machine learning, AWS, Azure and Docker.<br>
   Co-author of research on deep learning for image classification, presented at the 20th Colombian Computing Conference.<br>
   Open to collaborating on projects that create meaningful impact.
 </p>
@@ -105,14 +106,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=C2557A&height=2&section=header" width="100%" alt=""/>
-</div>
-
-<!-- Contributions snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solarkyra/solarkyra/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/solarkyra/solarkyra/output/github-snake.svg" alt="Contributions snake animation" width="100%"/>
-  </picture>
 </div>
 
 <!-- Contact -->
