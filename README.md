@@ -30,8 +30,8 @@
 <h2 align="center">Technical Skills</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,js,html,latex,aws,azure,docker,git,github,mysql,mariadb,figma&theme=dark&perline=13">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,latex,aws,azure,docker,git,github,mysql,mariadb,figma&theme=light&perline=13" alt="Core technologies"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,js,html,latex,aws,azure,docker,linux,git,github,mysql,mariadb,figma&theme=dark&perline=14">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,latex,aws,azure,docker,linux,git,github,mysql,mariadb,figma&theme=light&perline=14" alt="Core technologies"/>
   </picture>
 </p>
 
@@ -63,6 +63,10 @@
 <img src="https://img.shields.io/badge/AWS-1F2328?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Azure-1F2328?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Docker-1F2328?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+
+**Operating Systems**<br/>
+<img src="https://img.shields.io/badge/Linux-1F2328?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/WSL-1F2328?style=flat-square&logo=windows&logoColor=white" alt="WSL"/>
 
 **Tools & Version Control**<br/>
 <img src="https://img.shields.io/badge/Git-1F2328?style=flat-square&logo=git&logoColor=white" alt="Git"/>
