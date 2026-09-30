@@ -88,7 +88,7 @@
 <!-- Publications -->
 <h2 align="center">Research &amp; Conferences</h2>
 <p align="center">
-  <b>20th Colombian Computing Conference (20CCC 2026)</b><br>
+  <a href="https://www.sco2.org/20ccc/" target="_blank"><b>20th Colombian Computing Conference (20CCC 2026)</b></a><br>
   NALEF – Nations of the Americas Conference and Labs of the Evaluation Forum<br>
   Cartagena de Indias, Colombia · August 12–14, 2026
 </p>
@@ -97,9 +97,9 @@
   José González Ortiz, <b>María Mónica Ahumada Lora</b>, Laura Torres Pereira<br>
   <i>Universidad Tecnológica de Bolívar</i>
 </p>
-<!-- Si tu artículo recibió el reconocimiento "Best Paper", descomenta la línea siguiente:
-<p align="center"><b>Distinction:</b> Best Paper</p>
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Best_Paper_Award-C2557A?style=flat-square&logo=awesomelists&logoColor=white" alt="Best Paper Award"/>
+</p>
 
 <!-- Certifications -->
 <h2 align="center">Certifications</h2>
